@@ -1,0 +1,18 @@
+### HTTP Request ###
+  The HTTP Request Message contains a Header and Body
+  separated by a blank line
+
+  [METHOD] [Request URI] [HTTP Version]
+      Header Request Line
+  The request line adheres to this format
+    -Examples
+        GET /index.html HTTP/1.1
+        GET / HTTP/1.1
+        POST /login HTTP/1.1
+
+IF POST MAN ISNT WORKING
+check in these orders
+  1.url
+  2.method
+  3.headers
+  4.body
